@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/e55ab833-48b9-49e9-bd3c-5cca9bc7d07c)<h1 align="center">Hi 👋, I'm Phan Thanh Duc</h1>
+!<h1 align="center">Hi 👋, I'm Phan Thanh Duc</h1>
 <h3 align="center">A passionate unity game developer from VietNam</h3>
-<img align="center" alt="Coding" width="800" src="https://duws858oznvmq.cloudfront.net/Online_Game_Development_Company_45d55d1265.webp">
+<img align="center" alt="Coding" width="800" src="https://github.com/user-attachments/assets/e55ab833-48b9-49e9-bd3c-5cca9bc7d07c">
 
 * 🌱 I’m currently learning **to create and design 3D models**
 * 📫 How to reach me **deadworld128@gmail.com**
